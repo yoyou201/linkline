@@ -11,16 +11,16 @@ jsproxy_config({
   node_map: {
     'defalut': {
       label: '第1通道',
-      lines: {quiet-limit-3d64.yoyou201.workers.dev
-        '111.111.workers.dev': 1,
+      lines: {
+        'quiet-limit-3d64.yoyou201.workers.dev': 1,
       }
     },
     
      
     'defalut1': {
       label: '第2通道',
-      lines: {noisy-snowflake-df2d.yoyou201.workers.dev
-        '222.222.workers.dev': 1,
+      lines: {
+        'noisy-snowflake-df2d.yoyou201.workers.dev': 1,
       }
     },
     
@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'snowy-resonance-493b.toptabletoptable.workers.dev': 1,
       }
     },
   
@@ -36,7 +36,7 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        '444.444.workers.dev': 1,
+        'soft-salad-1969.toptabletoptable.workers.dev': 1,
       },
     },
     
