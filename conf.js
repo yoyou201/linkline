@@ -11,7 +11,7 @@ jsproxy_config({
   node_map: {
     'defalut': {
       label: '第1通道',
-      lines: {
+      lines: {noisy-snowflake-df2d.yoyou201.workers.dev
         '111.111.workers.dev': 1,
       }
     },
