@@ -19,7 +19,7 @@ jsproxy_config({
      
     'defalut1': {
       label: '第2通道',
-      lines: {
+      lines: {noisy-snowflake-df2d.yoyou201.workers.dev
         '222.222.workers.dev': 1,
       }
     },
